@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36582476033",
+    "project_id": "epicinventory-f239f",
+    "storage_bucket": "epicinventory-f239f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36582476033:android:760501fca15ba1cdbab300",
+        "android_client_info": {
+          "package_name": "com.example.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKk0Et-tMnQXV-4priq-nWxnCnyCjjDbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
