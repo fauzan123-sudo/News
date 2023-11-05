@@ -101,7 +101,7 @@ class PdfService {
         addLineSpace(document, 1)
 
         //Add table title
-        document.add(Paragraph("Data Barang", TITLE_FONT))
+        document.add(Paragraph("Laporan Akhir ", TITLE_FONT))
         addLineSpace(document, 1)
 
         //Define Table
